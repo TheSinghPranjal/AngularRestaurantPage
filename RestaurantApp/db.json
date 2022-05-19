@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "name": "Ruchi",
+      "email": "ruchi@gmail.com",
+      "mobile": "6767767677",
+      "address": "sjsjsk",
+      "services": "ksjks"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}

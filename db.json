@@ -1,0 +1,48 @@
+{
+  "posts": [
+    {
+      "id": 7,
+      "name": "pranjal",
+      "email": "pranjal@gmail.com",
+      "mobile": "787878787878",
+      "address": "appartment",
+      "services": "dosa"
+    },
+    {
+      "id": 9,
+      "name": "Ruchi",
+      "email": "ruchi@gmail.com",
+      "mobile": "747474747474",
+      "address": "lucknow",
+      "services": "humming"
+    },
+    {
+      "id": 10,
+      "name": "pradeep",
+      "email": "pradeep@gmail.com",
+      "mobile": "17171717171717",
+      "address": "barabanki",
+      "services": "tester"
+    },
+    {
+      "id": 11,
+      "name": "hello",
+      "email": "hello@gmail.com",
+      "mobile": "7878787878",
+      "address": "kanpur",
+      "services": "pizza"
+    },
+    {
+      "id": 6,
+      "name": "Ruchi",
+      "email": "heheheh@gmail.com",
+      "mobile": "7878787878",
+      "address": "hdhdh",
+      "services": "company"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
